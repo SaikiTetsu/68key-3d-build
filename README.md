@@ -5,18 +5,17 @@ Shout out to Mad Mod Labs for making all of these very much possible!
 ## Credit - Mad Mod Labs
 This is a link to a YouTube video tutorial on how to build a 3D printed keyboard: [Build a 3D Printed Keyboard - Mad Mod Labs](https://youtu.be/iOeYkLlq9Ds?si=ZG3G4y8M3djpxZ7P)
 
-**Introduction**
+**Introduction** --
 This is a 3D printed keyboard that is fully customizable and easy to assemble. It is perfect for both beginners and experienced keyboard enthusiasts.
 
+## Steps: <br>
 **Features**
-
 * Programmable QMK firmware
 * Custom keyboard switches
 * Wide range of customization options
 * Easy assembly
 
 **Getting Started**
-
 1. Download and print the 3D print files.
 2. Gather the required materials and tools.
 3. Assemble/solder the keyboard according to the step-by-step instructions.
@@ -41,14 +40,14 @@ This is a 3D printed keyboard that is fully customizable and easy to assemble. I
 * 8 - 20mm M3 bolts
 * 16 - M3 nuts
 
-
 ## STL Files
 Here is the STL for the keyboard casing including the other parts. <br>
 Download: [Custom 3D Print Files](https://www.printables.com/model/307908-mechanical-keyboard-68-key-65/).
 
 ## Software Needed
-Some might use different but I was able to successfully build mine using the following: <br>
+Addiontal software might be needed once IDE's are installed but I was able to successfully build mine using the following: <br>
 * [Arduino IDE](https://www.arduino.cc/en/software/).
+* [Adafruit itsybitsy](https://www.adafruit.com/product/4888/).
 
 ## Keyboard Layout Editor
 This is a link to the Keyboard Layout Editor: [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/), which is a web application that allows you to design and edit keyboard layouts.
@@ -60,14 +59,6 @@ To create a custom firmware file, go to the [Keyboard Firmware Builder](https://
 
 ## Keyboard Tester
 To test all the keys and make sure everything works correctly when pressed, go to [Keyboard Tester](https://www.keyboardtester.com/).
-
-
-
-**Customization Options**
-You can customize your keyboard in a variety of ways, such as:
-* Changing the layout
-* Using different keycaps
-* Using different keyboard switches
 
 **Troubleshooting**
 If you encounter any problems when assembling or using your keyboard, please consult the troubleshooting guide in the repo.

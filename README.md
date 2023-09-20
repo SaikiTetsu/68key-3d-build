@@ -63,15 +63,15 @@ To test all the keys and make sure everything works correctly when pressed, go t
 **Troubleshooting**
 If you encounter any problems when assembling or using your keyboard, please consult the troubleshooting guide in the repo.
 
-# License 
-This work is licensed under a
-Creative Commons (4.0 International License)
-Attribution—Noncommercial—Share Alike
-✖ | Sharing without ATTRIBUTION
-✔ | Remix Culture allowed
-✖ | Commercial Use
-✖ | Free Cultural Works
-✖ | Meets Open Definition
+# License 
+This work is licensed under a <br>
+Creative Commons (4.0 International License) <br>
+Attribution—Noncommercial—Share Alike <br>
+✖ | Sharing without ATTRIBUTION <br>
+✔ | Remix Culture allowed <br>
+✖ | Commercial Use <br>
+✖ | Free Cultural Works <br>
+✖ | Meets Open Definition <br>
 
 
-**Hopefully this build was made easier! ---> Thanks again to the creator of the STL files used MAD MOD LABS.**
+**Hopefully this build was made easier! ---> Thanks again to the (creator) MAD MOD LABS of the STL files used .**

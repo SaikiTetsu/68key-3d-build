@@ -1,6 +1,6 @@
 # 68key-3D-build
 3D printed custom keyboard 68% layout. 
-Shout out to Mad Mod Labs for making all of these very much possible! 
+Shout out to Mad Mod Labs for making all of this possible! 
 
 ## Credit - Mad Mod Labs
 This is a link to a YouTube video tutorial on how to build a 3D printed keyboard: [Build a 3D Printed Keyboard - Mad Mod Labs](https://youtu.be/iOeYkLlq9Ds?si=ZG3G4y8M3djpxZ7P)
@@ -63,7 +63,15 @@ To test all the keys and make sure everything works correctly when pressed, go t
 **Troubleshooting**
 If you encounter any problems when assembling or using your keyboard, please consult the troubleshooting guide in the repo.
 
-**License**
-This project is licensed under Mad Mod Labs. What I have done is document everything and anything to make these builds as easy as possible as well as changes I made.
+# License 
+This work is licensed under a
+Creative Commons (4.0 International License)
+Attribution—Noncommercial—Share Alike
+✖ | Sharing without ATTRIBUTION
+✔ | Remix Culture allowed
+✖ | Commercial Use
+✖ | Free Cultural Works
+✖ | Meets Open Definition
 
-**Hopefully this build was made easier!**
+
+**Hopefully this build was made easier! ---> Thanks again to the creator of the STL files used MAD MOD LABS.**

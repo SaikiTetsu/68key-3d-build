@@ -6,7 +6,9 @@ Shout out to Mad Mod Labs for making all of this possible!
 This is a link to a YouTube video tutorial on how to build a 3D printed keyboard: [Build a 3D Printed Keyboard - Mad Mod Labs](https://youtu.be/iOeYkLlq9Ds?si=ZG3G4y8M3djpxZ7P)
 
 **Introduction** <br>
-This is a 3D printed keyboard that is fully customizable and easy to assemble. It is perfect for both beginners and experienced keyboard enthusiasts. I did a few things differently than this video because I used another micro controller, but anything is possible with programming folks! If you need help E-mail me and we can get started. :)
+This is a 3D printed keyboard that is fully customizable and easy to assemble. It is perfect for both beginners and experienced keyboard enthusiasts. I did a few things differently than this video because I used another micro controller, but anything is possible with programming folks! <br>
+
+**If you need help E-mail me and we can get started. :)**
 
 ## Steps:
 **Features**

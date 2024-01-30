@@ -1,78 +1,104 @@
-# 68-Key 3D printed Keyboard Build
-3D printed custom keyboard 68% layout. 
-Shout out to Mad Mod Labs for making all of this possible! 
+# 68-Key 3D Printed Keyboard Build
 
-## Credit - Mad Mod Labs
-This is a link to a YouTube video tutorial on how to build a 3D printed keyboard: [Build a 3D Printed Keyboard - Mad Mod Labs](https://youtu.be/iOeYkLlq9Ds?si=ZG3G4y8M3djpxZ7P)
+<p align="center">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" height="300">
+</p>
 
-**Introduction** <br>
-This is a 3D printed keyboard that is fully customizable and easy to assemble. It is perfect for both beginners and experienced keyboard enthusiasts. I did a few things differently than this video because I used another micro controller, but anything is possible with programming folks! <br>
+<p align="center">
+  🚀 Elevate your coding experience with the 68-Key 3D Printed Keyboard! 🚀
+</p>
 
-**If you need help E-mail me and we can get started. :)**
+<p align="center">
+  <a href="https://github.com/ailyncodes">
+    <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ailyn-diaz-802943225">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/L19U1D4N63L">
+    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
 
-## Steps:
-**Features**
-* Programmable QMK firmware
-* Custom keyboard switches
-* Wide range of customization options
-* Easy assembly
+## Overview
 
-**Getting Started**
-1. Download and print the 3D print files.
-2. Gather the required materials and tools.
-3. Assemble/solder the keyboard according to the step-by-step instructions.
-4. Install the keycaps and switches.
-5. Connect the keyboard to your computer, install the firmware, and enjoy!
+Welcome to the extraordinary realm of bespoke keyboards! Immerse yourself in the craftsmanship, precision, and innovation embodied by this 3D printed masterpiece. Behold the elegance of a 68% layout, striking the ideal equilibrium between a compact design and uncompromising functionality.
 
-**Required Materials and Tools**
-* 3D printed keyboard case (68%)
-* Tinned stranded copper gauge wire (24 gauge silicone wire, get 10+ colors)
-* Keycaps (Your choice)
-* USB-C cable
-* Screwdriver
-* Soldering iron (optional)
-* Fume extractors
-* 1 - Teensy 2.0 (I used an Adafruit ItsyBitsy RP2040 Product ID: 4888)
-* 68 - 1N4148 diodes
-* 68 - of your favorite mechanical Keyboard switches (I used Redragon A113 Bullet-R linear 3-pin red)
-* 3 - 2unit plate mount stabilizers
-* 1 - 6.25 plate mount stabilizer for the spacebar
-* 1 - USB-C breakout board
-* 8 - 12mm M3 bolts
-* 8 - 20mm M3 bolts
-* 16 - M3 nuts
+I extend my deepest gratitude to the trailblazing minds at **Mad Mod Labs**, whose visionary brilliance has truly made this keyboard odyssey possible!
+
+Prepare to elevate your typing experience as you delve into the intricacies of this custom creation, where every detail reflects the dedication of both creator and designer. This keyboard is more than a tool; it's a testament to the fusion of art and technology.
+
+**A special thank you to Mad Mod Labs for bringing STL files all together!**
+
+
+## Features
+
+- 🎨 Fully customizable and stylish design
+- 💡 Programmable QMK firmware for ultimate customization
+- ⚙️ Custom keyboard switches tailored to your typing preferences
+- 🛠️ Easy assembly, perfect for both beginners and enthusiasts
+
+## Getting Started
+
+1. 🖨️ Download and print the 3D print files.
+2. 🧰 Gather the required materials and tools.
+3. 🔧 Assemble/solder the keyboard following step-by-step instructions.
+4. 🎹 Install the keycaps and switches.
+5. 🚀 Connect the keyboard to your computer, install the firmware, and enjoy a personalized typing experience!
+
+## Required Materials and Tools
+
+- 🖨️ 3D printed keyboard case (68%)
+- 🌈 Tinned stranded copper gauge wire (24 gauge silicone wire, get 10+ colors)
+- 💻 Keycaps (Your choice)
+- 🔌 USB-C cable
+- 🔧 Screwdriver
+- 🛠️ Soldering iron (optional)
+- 🌬️ Fume extractors
+- 🔲 1 - Teensy 2.0 (I used an Adafruit ItsyBitsy RP2040 Product ID: 4888)
+- 🔴 68 - 1N4148 diodes
+- ⌨️ 68 - of your favorite mechanical Keyboard switches (I used Redragon A113 Bullet-R linear 3-pin red)
+- 🛠️ 3 - 2unit plate mount stabilizers
+- 🛠️ 1 - 6.25 plate mount stabilizer for the spacebar
+- 🔲 1 - USB-C breakout board
+- 🔩 8 - 12mm M3 bolts
+- 🔩 8 - 20mm M3 bolts
+- 🔩 16 - M3 nuts
 
 ## STL Files
-Here is the STL for the keyboard casing including the other parts. <br>
-Download: [Custom 3D Print Files](https://www.printables.com/model/307908-mechanical-keyboard-68-key-65/).
+
+Here is the [Custom 3D Print Files](https://www.printables.com/model/307908-mechanical-keyboard-68-key-65/).
 
 ## Software Needed
-Addiontal software might be needed once IDE's are installed but I was able to successfully build mine using the following: <br>
-* [Arduino IDE](https://www.arduino.cc/en/software/).
-* [Adafruit itsybitsy](https://www.adafruit.com/product/4888/).
 
-## Keyboard Layout Editor
-This is a link to the Keyboard Layout Editor: [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/), which is a web application that allows you to design and edit keyboard layouts.
-You can use the Keyboard Layout Editor to design a custom keyboard layout for your 3D printed keyboard. Once you are happy with your layout, you can export it to a file that can be used to generate the 3D print files for your keyboard.
+Additional software might be needed once IDE's are installed, but I was able to successfully build mine using the following:
+- [Arduino IDE](https://www.arduino.cc/en/software/)
+- [Adafruit ItsyBitsy](https://www.adafruit.com/product/4888/)
 
-## Keyboard Firmware Builder
-You can use the Keyboard Firmware Builder to create a custom firmware file for your keyboard. This firmware file will tell your keyboard how to behave, such as which keycodes to send when you press certain keys.
-To create a custom firmware file, go to the [Keyboard Firmware Builder](https://kbfirmware.com/).
+## Design Your Layout
 
-## Keyboard Tester
-To test all the keys and make sure everything works correctly when pressed, go to [Keyboard Tester](https://www.keyboardtester.com/).
+Use the [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/) to design a custom layout for your 3D printed keyboard.
 
-**Troubleshooting** <br>
-If you encounter any problems when assembling or using your keyboard, please consult the troubleshooting guide in the repo.
+## Build Your Firmware
+
+Create a custom firmware file for your keyboard with the [Keyboard Firmware Builder](https://kbfirmware.com/).
+
+## Test Your Keyboard
+
+Ensure everything works correctly when pressed using the [Keyboard Tester](https://www.keyboardtester.com/).
+
+## Troubleshooting
+
+If you encounter any problems when assembling or using your keyboard, please consult the troubleshooting guide in the repository.
 
 # License 
-This work is licensed under a <br>
-Creative Commons (4.0 International License) <br>
-Attribution—Noncommercial—Share Alike <br>
-✖ | Sharing without ATTRIBUTION <br>
-✔ | Remix Culture allowed <br>
-✖ | Commercial Use <br>
-✖ | Free Cultural Works <br>
-✖ | Meets Open Definition <br>
 
-**Hopefully this build was made easier! ---> Thanks again to the (creator) MAD MOD LABS of the STL files used .**
+This work is licensed under a Creative Commons (4.0 International License):
+- ✔ | Attribution—Noncommercial—Share Alike
+- ✖ | Sharing without ATTRIBUTION
+- ✔ | Remix Culture allowed
+- ✖ | Commercial Use
+- ✖ | Free Cultural Works
+- ✖ | Meets Open Definition
+
+**Happy Coding with Your New Custom 68-Key 3D Printed Keyboard!** 🚀✨

@@ -20,6 +20,8 @@
   </a>
 </p>
 
+![keyboard-layout](https://github.com/ailynux/68key-3d-build/assets/95152597/31ff57e4-b50a-48b1-a8b6-8e20c793a47d)
+
 ## Overview
 
 Welcome to the extraordinary realm of bespoke keyboards! Immerse yourself in the craftsmanship, precision, and innovation embodied by this 3D printed masterpiece. Behold the elegance of a 68% layout, striking the ideal equilibrium between a compact design and uncompromising functionality.
